@@ -1,5 +1,5 @@
 var typed = new Typed(".text", {
-  strings: ["3D Modeler", "3D Renderer"],
+  strings: ["3D Modeler", "3D Visualizer", "Art and Craft Artist"],
   typeSpeed: 70,
   backSpeed: 40,
   backDelay: 40,
@@ -44,6 +44,4 @@ const swiper = new Swiper(".wrapper", {
     },
   },
 });
-
-
 
